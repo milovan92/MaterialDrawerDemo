@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="main__drawer__width">210dp</dimen>
+    <dimen name="main__mini_drawer__width">72dp</dimen>
+</resources>

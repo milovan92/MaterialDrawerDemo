@@ -1,0 +1,21 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent</item>
+
+        <!-- MaterialDrawer specific values -->
+        <item name="material_drawer_background">@color/primary</item>
+        <item name="material_drawer_primary_text">#e7e7e7</item>
+        <item name="material_drawer_primary_icon">#e7e7e7</item>
+        <item name="material_drawer_secondary_text">#e7e7e7</item>
+        <item name="material_drawer_hint_text">@color/material_drawer_hint_text</item>
+        <item name="material_drawer_divider">#80e7e7e7</item>
+        <item name="material_drawer_selected_legacy">#35495d</item>
+        <item name="material_drawer_selected_text">@android:color/white</item>
+        <item name="material_drawer_header_selection_text">@color/material_drawer_header_selection_text</item>
+        <item name="material_drawer_legacy_style">true</item>
+    </style>
+
+</resources>

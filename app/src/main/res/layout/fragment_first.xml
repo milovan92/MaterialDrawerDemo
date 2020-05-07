@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FirstFragment">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="10dp"
+        android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis blandit eu lacus ut dictum. Ut vel interdum nibh. Suspendisse vehicula nisi eu sollicitudin mollis. Proin nec orci convallis, ullamcorper ante eu, venenatis purus. Sed quis eros vel magna dignissim ultrices ac ac mauris. Donec tincidunt mollis nisl in dictum. Donec sit amet nisl finibus, malesuada augue quis, pellentesque risus. Nulla dictum venenatis urna. Phasellus dapibus tincidunt rutrum. Sed malesuada ex quam, a condimentum neque suscipit a. Integer rutrum nulla at sollicitudin tempus."
+        tools:ignore="HardcodedText" />
+
+</FrameLayout>
